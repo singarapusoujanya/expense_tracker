@@ -1,0 +1,4 @@
+500,food
+700,shopping
+200,travelling
+1300,groceries
